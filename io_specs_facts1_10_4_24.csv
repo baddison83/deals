@@ -1,0 +1,41 @@
+METRIC,INTERFACE,AD_TYPE,VALUE,IO
+Impression Target,Email,Takeover,280000,IO_0-51H01
+Deal Owner,,,Jim Perry,IO_0-51H01
+Deal Value,,,10000,IO_0-51H01
+Start Date,,,2024-09-01,IO_0-51H01
+End Date,,,2024-09-30,IO_0-51H01
+Send Target,Email,All,0,IO_0-51H01
+Send Target,Email,In line,0,IO_0-51H01
+Send Target,Email,Takeover,0,IO_0-51H01
+Send Target,Email,Banner,0,IO_0-51H01
+Impression Target,Email,In line,450000,IO_0-51H01
+Partner Name,,,Starz,IO_0-51H01
+Impression Target,Email,Banner,0,IO_0-51H01
+Impression Target,App,GAM,0,IO_0-51H01
+Impression Target,App,Home Card,VALUE,IO_0-51H01
+Impression Target,App,Promotional Home Card,VALUE,IO_0-51H01
+Impression Target,App,Push,50000,IO_0-51H01
+Impression Target,App,Takeover,20000,IO_0-51H01
+Impression Target,Web,GAM,0,IO_0-51H01
+Impression Target,App+Web,GAM,0,IO_0-51H01
+Impression Target,Web,Pix Takeover, 50000,IO_0-51H01
+Impression Target,Email,Takeover,0,IO_1190
+Deal Owner,,,Jodi Rosoff,IO_1190
+Deal Value,,,10000,IO_1190
+Start Date,,,2024-09-09,IO_1190
+End Date,,,2024-11-30,IO_1190
+Send Target,Email,All,0,IO_1190
+Send Target,Email,In line,0,IO_1190
+Send Target,Email,Takeover,0,IO_1190
+Send Target,Email,Banner,0,IO_1190
+Impression Target,Email,In line,0,IO_1190
+Partner Name,,,HBG/GCP Forever,IO_1190
+Impression Target,Email,Banner,0,IO_1190
+Impression Target,App,GAM,0,IO_1190
+Impression Target,App,Home Card,0,IO_1190
+Impression Target,App,Promotional Home Card,0,IO_1190
+Impression Target,App,Push,0,IO_1190
+Impression Target,App,Takeover,0,IO_1190
+Impression Target,Web,GAM,0,IO_1190
+Impression Target,Web,Pix Takeover,0,IO_1190
+Reach Target,Email + App,,1000000,IO_1190
